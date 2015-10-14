@@ -1,0 +1,8 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	background: #000000;
+	font-family: 'Helvetica Neue', 'Helvetica';
+	height: 100%;
+}
